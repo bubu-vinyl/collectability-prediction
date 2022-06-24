@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "FIRAT"
+- family-names: "Fırat"
   given-names: "Büşra"
 title: "Vinyl Collectability Prediction using Neural Networks"
 version: 1.0.0
