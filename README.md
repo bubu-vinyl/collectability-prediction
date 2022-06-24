@@ -6,6 +6,8 @@ Moreover, the interest is still ever-growing, causing shortages at vinyl
 pressing plants and pushing wait times to over 9 months. As a result,
 Jack White made a statement for the music industry and called for
 building more pressing plants (White, 2022).
+
+
 In the study, empirical evidence was found on the impact of
 attributes that goes well beyond the artist or title popularity in ex-
 plaining the popularity of vinyl records. Specifically, unique physical
